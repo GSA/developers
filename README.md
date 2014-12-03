@@ -14,3 +14,4 @@ Everyone is invited to participate, whether you work at GSA or not.  All are wel
   * [Establishing GSA API Standards](https://github.com/GSA/developers/issues/10)
   * [Build a central GSA API](https://github.com/GSA/developers/issues/4)
   * [Pick next datasets for API treatment](https://github.com/GSA/developers/issues/2)
+  * [Ensure all APIs participate in API Usability Sessions](https://github.com/GSA/developers/issues/12)
