@@ -5,7 +5,8 @@ Everyone is invited to participate, whether you work at GSA or not.  All are wel
 ### Overview 
 
 * [Revamping GSA.gov/developer](https://github.com/GSA/developers/milestones/GSA.gov/developers)
-  * [Pick a theme](https://github.com/GSA/developers/issues/5)
+  * [Pick a theme for the developer hub](https://github.com/GSA/developers/issues/5)
+  * ~~[Pick a theme for the individual API documentation](https://github.com/GSA/developers/issues/6)~~
   * [Integrate current content](https://github.com/GSA/developers/issues/7)
   * [Add new content and functionality](https://github.com/GSA/developers/issues/3)
 
