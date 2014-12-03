@@ -17,3 +17,4 @@ Everyone is invited to participate, whether you work at GSA or not.  All are wel
   * [Pick next datasets for API treatment](https://github.com/GSA/developers/issues/2)
   * [Ensure all APIs participate in API Usability Sessions](https://github.com/GSA/developers/issues/12)
   * [Set Up a Subscription System](https://github.com/GSA/developers/issues/13)
+  * [Update the API terms of service](https://github.com/GSA/developers/issues/14)
