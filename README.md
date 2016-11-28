@@ -3,9 +3,9 @@ This repository is from a set of earlier efforts to organize the GSA's API effor
 Some of the below can be picked back up and moved forward with at any time, if there's interest.  
 
 
-~~This project serves to organize several efforts, including those listed below.  Please help by contributing [ideas and feedback](https://github.com/GSA/developers/issues) for any of these projects and by [suggesting new ideas](https://github.com/GSA/developers/issues/new).   ~~
+~~This project serves to organize several efforts, including those listed below.  Please help by contributing [ideas and feedback](https://github.com/GSA/developers/issues) for any of these projects and by [suggesting new ideas](https://github.com/GSA/developers/issues/new).~~
 
-~~Everyone is invited to participate, whether you work at GSA or not.  All are welcome! ~~ 
+~~Everyone is invited to participate, whether you work at GSA or not.  All are welcome!~~ 
 
 ### Overview 
 
